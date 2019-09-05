@@ -37,5 +37,8 @@
             "/documentation",
             "/tests"
         ]
+    },
+    "replace": {
+        "zendframework/zendframework1": "1.*"
     }
 }
